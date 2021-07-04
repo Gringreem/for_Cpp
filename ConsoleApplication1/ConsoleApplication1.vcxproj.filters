@@ -102,5 +102,14 @@
     <ClCompile Include="42885_pr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="67257_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="67258_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
