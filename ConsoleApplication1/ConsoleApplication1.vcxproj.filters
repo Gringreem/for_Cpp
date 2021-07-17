@@ -99,9 +99,6 @@
     <ClCompile Include="12909_pr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="42885_pr.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="67257_pr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -145,6 +142,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="42890_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KP_1번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KP_3번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="42577_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="42885_pr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

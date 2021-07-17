@@ -4,14 +4,22 @@
 
 using namespace std;
 
-int solution(vector<int> people, int limit) {
+int solution_42885(vector<int> people, int limit) {
     int answer = 0;
-    int left = limit;
 
     sort(people.begin(), people.end());
     
-    for (int i = 0;i < people.size();i++) {
+    int first = 0, last = people.size() - 1;
 
+    while (first <= last) {
+        if (people[first] + people[last] <= limit) {
+            first++;
+            last--;
+        }
+        else {
+            last--;
+        }
+        answer++;
     }
 
     return answer;

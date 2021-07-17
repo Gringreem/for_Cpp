@@ -167,7 +167,6 @@
     <ClCompile Include="12899_pr.cpp" />
     <ClCompile Include="17677_pr.cpp" />
     <ClCompile Include="12909_pr.cpp" />
-    <ClCompile Include="42885_pr.cpp" />
     <ClCompile Include="67257_pr.cpp" />
     <ClCompile Include="67258_pr.cpp" />
     <ClCompile Include="67259_pr.cpp" />
@@ -183,6 +182,10 @@
     <ClCompile Include="1829_pr.cpp" />
     <ClCompile Include="62048_pr.cpp" />
     <ClCompile Include="42890_pr.cpp" />
+    <ClCompile Include="KP_1번.cpp" />
+    <ClCompile Include="KP_3번.cpp" />
+    <ClCompile Include="42577_pr.cpp" />
+    <ClCompile Include="42885_pr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
