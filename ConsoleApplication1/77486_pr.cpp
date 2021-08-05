@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<int> solution(vector<string> enroll, vector<string> referral, vector<string> seller, vector<int> amount) {
+vector<int> solution_77486(vector<string> enroll, vector<string> referral, vector<string> seller, vector<int> amount) {
     vector<int> answer(enroll.size());
     map<string, string> parent;
     map<string, int> mp;
