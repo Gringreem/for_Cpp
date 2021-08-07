@@ -189,6 +189,12 @@
     <ClCompile Include="82612_pr.cpp" />
     <ClCompile Include="77486_pr.cpp" />
     <ClCompile Include="42884_pr.cpp" />
+    <ClCompile Include="42895_pr.cpp" />
+    <ClCompile Include="12927_pr.cpp" />
+    <ClCompile Include="12938_pr.cpp" />
+    <ClCompile Include="12914_pr.cpp" />
+    <ClCompile Include="12946_pr.cpp" />
+    <ClCompile Include="12936_pr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
