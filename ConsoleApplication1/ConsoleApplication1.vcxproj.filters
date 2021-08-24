@@ -219,5 +219,11 @@
     <ClCompile Include="TS_6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="83201_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="84325_pr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -207,6 +207,8 @@
     <ClCompile Include="TS_4.cpp" />
     <ClCompile Include="TS_5.cpp" />
     <ClCompile Include="TS_6.cpp" />
+    <ClCompile Include="83201_pr.cpp" />
+    <ClCompile Include="84325_pr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
